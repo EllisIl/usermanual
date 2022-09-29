@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    background-color:#ECDEC9;
+    width:max-content;
+    padding:10px 15px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size:large;
+}
+
+p {
+    margin: auto;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px;
+    padding: 10px;
+}
