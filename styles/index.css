@@ -1,20 +1,32 @@
 body {
-    background-color: antiquewhite;
+    height: 100%;
+    background: linear-gradient(
+        110deg, 
+        rgb(214, 202, 187) 60%, 
+        #d3c3ab 60%
+    );
 }
+
 h1 {
     background-color:#ECDEC9;
-    width:max-content;
     padding:10px 15px;
-    margin: auto;
-    text-align: center;
     font-family: 'Oswald', sans-serif;
     font-size:large;
+    margin-left:20%;
+    margin-right:20%;
+}
+
+h2 {
+    text-align: center;
 }
 
 p {
-    margin: auto;
-    text-align: center;
     font-family: 'Oswald', sans-serif;
+    margin-left: 10px;
+    margin-left:25%;
+    margin-right: 25%;
+    background-color: rgb(245, 230, 209);
+    padding:10px 15px;
 }
 
 .center {
